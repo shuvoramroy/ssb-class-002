@@ -1,0 +1,50 @@
+body{
+	background-color: #e4dfdf;
+	margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+}
+div{
+	background-color:white;
+	padding: 20px;
+	text-align: center;
+}
+img{
+	max-width: 100%;
+}
+.color1{
+		color: blue;
+}
+.color2{
+		color: red;
+}
+.color3{
+		color: green;
+}
+.color4{
+		color: yellow;
+}
+p{
+	font-size: 20px;
+    margin-bottom: 50px;
+}
+.img1{
+	margin-top: -90px;
+    margin-bottom: -55px;
+}
+h3{
+	text-align: justify;
+	font-size: 30px;
+}
+.lorem{
+	text-align: justify;
+	font-size: 4px;
+}
+.end{
+	margin-top: 30px;
+    background-color: green;
+    color: white;
+    padding: 50px;
+    font-size: 35px;
+    
+}
